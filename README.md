@@ -1,0 +1,1 @@
+ A web-based Hotel Management System developed using the Laravel framework and Blade templating engine. The system automates core hotel operations such as room booking, customer registration, check-in/check-out, billing, and room availability management. It provides an admin-friendly interface. 
